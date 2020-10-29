@@ -1,18 +1,22 @@
 ### Hi there 👋
 
-I am a newly graduated Java developer, looking for opportunities to start a career as a developer! Interested in working on backend, fullstack and APIs.  
-Currently learning AWS on distance course at Campus Mölndal.
+I am a newly graduated Java developer, looking for opportunities to start a career as a developer! Interested in working on backend, fullstack, APIs and cloud services.  
+Currently learning AWS on a distance course at Campus Mölndal.
+
+Fluent in English, Swedish and of course in Japanese.
 
 
 ### Programming Languages
-Java (Spring, Spring Boot), JavaScript (React.js, Vue.js)
+Java (EE, Spring Boot), JavaScript (React.js, Vue.js)
 a bit of Bash
 
 ### Tools etc.
-Eclipse, Visual Studio Code  
+Eclipse, Visual Studio Code, IntelliJ  
 Maven
-Docker
-Virtual Machine
+Docker, Docker-compose
+npm
+Virtual Machine (VirtualBox, Vagrant)
+AWS
 
 <!--
 **satoskit/satoskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
