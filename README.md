@@ -12,11 +12,11 @@ a bit of Bash
 
 ### Tools etc.
 Eclipse, Visual Studio Code, IntelliJ  
-Maven
-Docker, Docker-compose
-npm
-Virtual Machine (VirtualBox, Vagrant)
-AWS
+Maven  
+Docker, Docker-compose  
+npm  
+Virtual Machine (VirtualBox, Vagrant)  
+AWS  
 
 <!--
 **satoskit/satoskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
