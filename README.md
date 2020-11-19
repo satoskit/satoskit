@@ -18,7 +18,7 @@ Virtual Machine (VirtualBox, Vagrant)
 AWS  
 
 
-### Hobby porject
+### Hobby project
 about_satoskit
 
 ### Graduation project
