@@ -5,7 +5,6 @@ Currently learning AWS on a distance course at Campus Mölndal.
 
 Fluent in English, Swedish and of course in Japanese.
 
-
 ### Programming Languages
 Java (EE, Spring Boot), JavaScript (React.js, Vue.js)
 a bit of Bash
@@ -17,6 +16,15 @@ Docker, Docker-compose
 npm  
 Virtual Machine (VirtualBox, Vagrant)  
 AWS  
+
+
+### Hobby porject
+about_satoskit
+
+### Graduation project
+lista_dei_vini
+
+
 
 <!--
 **satoskit/satoskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
